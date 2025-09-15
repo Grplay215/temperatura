@@ -24,7 +24,7 @@ public class tempos {
 
     public void exibirResultados(){
 
-        System.out.println("a Temperatura " +celcios+ " °C em Kelvin e em Fahrenheit são respectivamente: ");
+        System.out.println("a Temperatura, " +celcios+ " °C em Kelvin e em Fahrenheit são respectivamente: ");
         System.out.println("------------------------");
         System.out.println(" " +kelvin+ " K");
         System.out.println("-------------------------");
