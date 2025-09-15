@@ -16,6 +16,7 @@ public class tempos {
     public void calculoDeGraus(){
         kelvin = celcios + 273.15;
 
+
         Fahrenheit = (celcios * 1.8) + 32;
 
         exibirResultados();
