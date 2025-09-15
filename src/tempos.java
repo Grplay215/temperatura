@@ -8,7 +8,7 @@ public class tempos {
 
     public void obterDados(){
         Scanner leitor = new Scanner(System.in);
-        System.out.println("quantos graus celcios estão?");
+        System.out.print("quantos graus celcios estão?");
         celcios = leitor.nextDouble();
         calculoDeGraus();
     }
